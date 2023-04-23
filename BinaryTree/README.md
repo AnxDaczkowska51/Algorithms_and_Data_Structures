@@ -1,6 +1,5 @@
 # BinaryTree.cpp
-  Program that uses a binary tree representation
-  
+
 # Treść zadania
 Biuro administracji Sołtysa nie było przyzwyczajone do pracy z dużą liczbą faktur. A zamówienia do budowy infrastruktury na Wyspie wciąż napływały. Dodatkowo Sołtys zatrudnił ostatnio bratanka z sąsiedniej wioski, a ten niezbyt dobrze radził sobie z drukarką. Wiele faktur wydrukował po kilka lub kilkanaście razy. Teraz całe biuro jest nimi wypełnione. Sołtys zwrócił się o pomoc do Ady i Serweryna. Poprosił ich o jakieś narzędzie do uporządkowania wszystkich faktur alfabetycznie. Ada i Serweryn wpadli na pomysł, by użyć do tego binarnej struktury drzewiastej. Wymyślili też, że nie trzeba wprowadzać kilka razy tej samej faktury omyłkowo drukowanej przez bratanka Sołtysa. Wystarczy zapamiętać w takim drzewie liczbę wystąpień każdej z faktur.
 
