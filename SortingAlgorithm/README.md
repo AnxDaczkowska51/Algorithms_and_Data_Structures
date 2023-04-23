@@ -1,7 +1,5 @@
 # SortingAlgorithm.cpp
- Example of a program using the insertion sort algorithm in C++
- 
- 
+
 # Treść zadania
 Ada i Serweryn w ramach dalszego modernizowania Wyspy chcieli zbudować wieże transmisyjne i idealnie nadawały się do tego najwyższe szczyty w okolicy. Najoszczędniejszy sposób rozmieszczenia wież polegał na tym, by prace rozpocząć na najniższym wybranym szczycie, stopniowo przenosząc się coraz wyżej, aż do najwyższego szczytu.
 
