@@ -1,5 +1,4 @@
 # Backtracking
- An algorithm analogous to solving the problem of placing n queens on a chessboard so that they do not check each other.
 
 # Treść zadania
 Część linii brzegowej Wyspy jest domem dla licznej populacji krabów. Przez większość czasu zwierzęta te są pod ścisłą ochroną, jednak raz w roku myśliwi z okolicznych wiosek urządzają wielkie polowanie. Przed rozpoczęciem, Wielki Łowczy wyznacza kwadratowy obszar polowania, który dzieli na pewną liczbę identycznych działek tak, aby wzdłuż długości boku kwadratu mieściło się tyle działek, ile grup bierze udział w wydarzeniu.
