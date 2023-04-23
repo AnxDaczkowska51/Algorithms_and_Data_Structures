@@ -1,6 +1,5 @@
 # BreadthFirstSearchAlgorithm
- Program that uses the BreadthFirstSearch method in a graph.
- 
+
 # Treść zadania
 Dostawca mleka Kazimierz postanowił pójść z duchem czasu i wysłać swojego wiernego konia na emeryturę, zaś wóz przerobić na huśtawkę. By jednak nadal mógł dostarczać mleko potrzebował nowego środka transportu. Zgodził mu się pomóc znany na Wyspie szaman i wynalazca: Leonard. Panowie wspólnymi siłami zaprojektowali samochód dla Kazimierza, jednak nie byli w stanie ustalić potrzebnej wielkości pojemnika na mleko. Udali się po pomoc do Ady i Serweryna. Kazimierz nie odwiedzał wszystkich wiosek na wyspie, a jedynie pewien ich podzbiór. Informatycy zdecydowali więc, że ustalą liczbę wiosek mijanych przez Kazimierza po drodze do najdalszego z jego celów. Na tej podstawie Leonard będzie w stanie wyliczyć objętość pojemnika na mleko w samochodzie Kazimierza.
 
