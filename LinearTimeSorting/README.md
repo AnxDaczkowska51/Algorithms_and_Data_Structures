@@ -1,6 +1,6 @@
 # LinearTimeSorting
 
-# Zadanie 9 - Rankingowe polowanie
+# Treść zadania - Rankingowe polowanie
 Po każdym udanym polowaniu konieczny jest podział łupów oraz liczne przechwałki. Pierwsza z tych rzeczy uregulowana jest na Wyspie w bardzo prosty sposób: każdy zachowuje to co złapał. W przypadku drugiej, zasady są jeszcze prostsze: nie ma zasad. Ta lekkoduszność w połączeniu z wrzącą w żyłach krwią Dotnetu sprawiają, że zakończone polowanie zamienia się sportową galę... często bardzo brutalną. Tym razem Wielki Łowczy nie chciał na to pozwolić. Aby powstrzymać myśliwych od walki o status najlepszego, poprosił Adę i Serweryna o uszeregowanie wszystkich uczestników polowania według ich zdobyczy.
 
 # Wejście:
